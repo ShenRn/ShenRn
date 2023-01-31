@@ -17,9 +17,8 @@
 
 - I'm an Rpl Engineering Student Who Likes To Learn IT Engineering Things From Him
 - Self taught Linux & Android developer
-- Currently Learning How To Create Kernel 4.9 Backport To Boot Kernel 3.18 On Android 12
-- Have made contributions to Kenzo and RMX1821 Kernel Development
-- I Like Exercising Every Day, Listening To Japanese Music, And Watching Anime!! 
+- Have made contributions to Kenzo, RMX1821 And Vince Kernel/Device Tree Development
+- I Like Listening To Japanese Music, And Watching Anime!! 
 
 <br>
 <br>
